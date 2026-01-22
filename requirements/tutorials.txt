@@ -7,5 +7,6 @@ requests
 jupyter>=1.0
 ipython<=8.12.0
 nx_hif==0.0.8
+Python-EasyGraph>=1.5.3
 toponetx
 xgi>=0.9.1
