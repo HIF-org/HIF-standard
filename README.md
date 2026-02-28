@@ -18,7 +18,7 @@ This repository is organized into the following folders:
 * `requirements`: This folder contains a list of all dependencies used in this project.
 * `schemas`: This folder contains all schemas used for specifying the HIF standard. For details of what has changed with each version, see the [CHANGELOG](/schemas/CHANGELOG.md).
 * `tests`: This folder contains all of the unit tests used for validating the schema against known compliant and non-compliant datasets.
-* `tutorials`: This folder contains tutorials detailing how each library uses the HIF standard and how the HIF standard allows seamless integration between libraries. For details of its contents, see the [README](/tutorials/TUTORIALS.md).
+* `tutorials`: This folder contains tutorials detailing how each library uses the HIF standard and how the HIF standard allows seamless integration between libraries. For details of its contents, see the [README](/tutorials/README.md).
 
 ## HIF Standard
 
