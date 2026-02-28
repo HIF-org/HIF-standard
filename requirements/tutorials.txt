@@ -1,5 +1,5 @@
 HypergraphAnalysisToolbox>=1.1.12
-hypergraphx
+hypergraphx==1.7.9
 hypernetx>=2.3.10
 julia
 networkx
