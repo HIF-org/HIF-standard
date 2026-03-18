@@ -134,6 +134,10 @@ You can cite the Hypergraph Interchange Format, the *Network Science* paper [HIF
 } 
 ```
 
+## Funding Statement
+
+The research by Przemysław Szufel was funded by the National Science Centre (NCN), Poland (grant number: 2021/41/B/HS4/03349).
+
 ## Projects using HIF
 * [A Blue Start: A large-scale pairwise and higher-order social network dataset](https://arxiv.org/abs/2505.11608)
 * [Efficient Gillespie algorithms for spreading phenomena in large and heterogeneous higher-order networks](https://arxiv.org/abs/2509.20174)
